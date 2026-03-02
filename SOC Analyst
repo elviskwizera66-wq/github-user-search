@@ -1,0 +1,75 @@
+# 🛡️ SOC Analyst Lab — Elvis Kwizera
+
+🚨 Cybersecurity Portfolio | Threat Detection | Blue Team Operations
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Elvis Kwizera**, a cybersecurity learner and **SOC Analyst in training** based in Cape Town, South Africa.
+
+I build hands-on security labs to simulate real-world attacks, analyze logs, and develop detection techniques used by Security Operations Centers (SOC).
+
+🎯 Goal: Become a Tier 1 SOC Analyst
+
+---
+
+## 🔬 SOC Lab Environment
+
+**Operating System**
+- Kali Linux
+
+**Security Tools**
+- OpenSSH
+- Fail2Ban
+- UFW Firewall
+- Linux Logs (auth.log, syslog)
+- Python Monitoring Scripts
+
+**Skills Practiced**
+- Threat Detection
+- Log Analysis
+- Incident Investigation
+- Brute Force Detection
+- Network Security Monitoring
+
+---
+
+## 🚨 Security Labs
+
+| Lab | Description | Skills |
+|-----|-------------|--------|
+| SSH Brute Force Detection | Simulated login attacks and analyzed logs | Detection & Response |
+| Fail2Ban Investigation | Automatic attacker blocking | Defensive Security |
+| Firewall Log Analysis | Investigated blocked traffic | Network Monitoring |
+
+👉 See `/labs` folder for full investigations.
+
+---
+
+## ⚙️ Detection Engineering
+
+Custom detection rules based on real attack behavior.
+
+Examples:
+- Multiple failed SSH logins
+- Suspicious authentication patterns
+- Automated banning thresholds
+
+👉 See `/detections`
+
+---
+
+## 🧠 Security Automation
+
+Python scripts built to simulate SIEM behavior:
+
+- Live log monitoring
+- Alert generation
+- Incident tracking
+
+👉 See `/scripts`
+
+---
+
+## 📊 Example Alert
