@@ -1,0 +1,18 @@
+
+soc-lab/
+│
+├── README.md
+├── labs/
+│   ├── ssh-bruteforce-detection.md
+│   ├── ufw-log-analysis.md
+│   ├── fail2ban-investigation.md
+│
+├── scripts/
+│   ├── mini_siem.py
+│   ├── log_parser.py
+│
+├── detections/
+│   ├── ssh_rules.md
+│   ├── brute_force_detection.md
+│
+└── screenshots/
